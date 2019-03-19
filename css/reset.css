@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+li {
+	text-decoration: none;
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	color: #ccc;
+	cursor: pointer;
+}
+
+a:hover {
+	color: #f33b19;
+}
+
+img {
+	border: none;
+}
+
+body {
+	color: #ccc;
+	font-size: 14px;
+	font-family: "宋体";
+	background: #fff;
+}
+
+.clear {
+	clear: both;
+	height: 0;
+	font-size: 0;
+	line-height: 0;
+}
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}

@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{ margin:0; padding:0; border:0; }
+li{ text-decoration:none; list-style:none;}
+a{ text-decoration:none; color:#666; cursor:pointer; }
+a:hover{color:#f33b19;}
+img{border:none;}
+body{color: #000; font-size:14px;font-family:"宋体"; background:#fff; }
+.clear {clear:both;height:0; font-size:0; line-height:0;  }
+
+
+#head{ height:50px; width:100%; background:#09F;}
+#head .shop_da{ float:left; color:#333; font-size:22px; padding-top:8px; padding-left:100px;}
+#head span{ padding-left:30px; font-size:20px; color: #666;}
+#cent{ width:100%; height:600px;}
+#content{ width:500px; height:500px; margin:0 auto; margin-top:160px; border:#0C6 1px solid; background:#D5EDFD;}
+#content h2{ color:#000; font-size:28px; text-align:center; padding-top:50px;}
+#content table{ padding-left:90px; color: #757575; padding-top:60px; font-size:24px;}
+#content table td{ padding-top:30px;}
+#content .box_1{ width:200px; height:30px; border: #066 1px solid;}
+#content .box_2{ width:200px; height:30px; border:#066 1px solid;}
+#content .box_3{ width:120px; height:40px;}
+
+
+#head .shop_re{ float: right; padding-right:300px; color:#333; font-size:18px; padding-top:14px;}
+#shop_cent{ width:100%; height:600px;}
+.shop_left{ float:left; width:400px; height:500px; margin-left:200px;	}
+.shop_left h2{ margin-top:20px; width:300px; height:50px; line-height:50px; text-align:center; background: #E7E7E7; border: #0CC 1px solid;}
+.shop_left li{ width:300px; height:50px; line-height:50px; text-align:center; color:#333; font-size:18px; background: #F3F3F3; margin-top:10px; }
+.shop_right{ float:left; width:600px; height:500px;} 
+.shop_right h2{ padding-left:30px; margin-top:60px; color:#000; font-size:26px; width:800px; height:70px; border-bottom:#999 1px solid;}
+.shop_right h3{ padding-left:30px; font-size:22px; margin-top:30px; margin-bottom:30px; }
+.shop_right p{ padding-left:30px; margin-top:20px;}
+
+
+#shop_add{ float:left; width:600px; height:500px; }
+#shop_add h2{ padding-left:30px; margin-top:60px; color:#000; font-size:26px; width:800px; height:70px; border-bottom:#999 1px solid;}
+#shop_add table td{ padding-top:30px; font-size:18px; }
+#shop_add table{ margin-left:30px;}
+#shop_add .box_4{ width:400px; height:30px; margin-left:30px; border: #066 1px solid;  padding-left:10px;}
+#shop_add .box_5{ width:50px; height:30px; margin-left:30px; border: #066 1px solid; padding-left:10px; }
+#shop_add .box_6{ width:50px; height:30px; margin-left:30px; border: #066 1px solid;  padding-left:10px;}
+#shop_add .box_7{ width:50px; height:30px; margin-left:30px; border: #066 1px solid;  padding-left:10px;}
+#shop_add .box_8{ margin-left:30px; }
+#shop_add .box_9{ width:300px; height:30px; margin-left:30px; border: #066 1px solid;  padding-left:10px;}
+#shop_add .box_10{ width:80px; height:30px; margin-left:30px; border: #066 1px solid; }
+
+#shop_list{float:left; width:800px; height:500px; }
+#shop_list h2{ padding-left:30px; margin-top:60px; color:#000; font-size:26px; width:800px; height:70px; border-bottom:#999 1px solid;}
+#shop_list table td{ padding-top:30px; font-size:18px;}
+#shop_list table{ margin-left:30px;}
+#shop_list .shop_big{ color:#000; font-weight:700; font-size:22px;}
+
+#shop_dit{ float:left; width:600px; height:500px; }
+#shop_dit h2{ padding-left:30px; margin-top:60px; color:#000; font-size:26px; width:800px; height:70px; border-bottom:#999 1px solid;}
+#shop_dit table td{ padding-top:30px; font-size:18px; }
+#shop_dit table{ margin-left:30px;}
+#shop_dit .box_4{ width:400px; height:30px; margin-left:30px; border: #066 1px solid; padding-left:10px; }
+#shop_dit .box_5{ width:50px; height:30px; margin-left:30px; border: #066 1px solid;  padding-left:10px;}
+#shop_dit .box_6{ width:50px; height:30px; margin-left:30px; border: #066 1px solid;  padding-left:10px;}
+#shop_dit .box_7{ width:50px; height:30px; margin-left:30px; border: #066 1px solid;  padding-left:10px;}
+#shop_dit .box_8{ margin-left:30px; }
+#shop_dit .box_9{ width:300px; height:30px; margin-left:30px; border: #066 1px solid;  padding-left:10px;}
+#shop_dit .box_10{ width:80px; height:30px; margin-left:30px; border: #066 1px solid; }
+#shop_dit .box_11{ margin-left:30px;}
